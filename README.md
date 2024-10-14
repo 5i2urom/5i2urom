@@ -1,4 +1,4 @@
-## Hi there 👋
+## Добро пожаловать на мою страницу в Github! 👋
 
 <!--
 **5i2urom/5i2urom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
